@@ -29,6 +29,7 @@ Atualmente, construo automações e projetos freelance para resolver problemas r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gkirst&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
+
 ### 🚀 Projetos em Destaque
 
 - 📈 **[Dashboard de Gestão de Qualidade](#)** - Automação para acompanhamento de indicadores industriais e ciclos PDCA.
