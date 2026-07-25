@@ -25,10 +25,8 @@ Atualmente, construo automações e projetos freelance para resolver problemas r
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GKirst&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKirst&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Gkirst&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+<div\>
 
 ### 🚀 Projetos em Destaque
 
