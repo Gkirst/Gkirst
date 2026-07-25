@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o Gustavo
+# Olá! 👋 Meu nome é Gustavo
 ![Visitas](https://komarev.com/ghpvc/?username=Gkirst&label=Visualizações+do+Perfil&color=0e75b6&style=flat)
 
 Sou um desenvolvedor de Joinville, SC, focado em construir soluções práticas e automatizadas. Tenho forte interesse em unir tecnologia com **gestão de qualidade industrial**, **melhoria contínua de processos (PDCA, Lean Six Sigma)** e **planejamento financeiro**. 
@@ -25,8 +25,8 @@ Atualmente, construo automações e projetos freelance para resolver problemas r
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gkirst&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gkirst&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GKirst&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKirst&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 
