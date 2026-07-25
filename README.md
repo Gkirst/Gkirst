@@ -22,12 +22,6 @@ Atualmente, construo automações e projetos freelance para resolver problemas r
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gkirst&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-<div\>
-
 ### 🚀 Projetos em Destaque
 
 - 📈 **[Dashboard de Gestão de Qualidade](#)** - Automação para acompanhamento de indicadores industriais e ciclos PDCA.
