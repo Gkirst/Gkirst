@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é Gustavo
+
 ![Visitas](https://komarev.com/ghpvc/?username=Gkirst&label=Visualizações+do+Perfil&color=0e75b6&style=flat)
 
 Sou um desenvolvedor de Joinville, SC, focado em construir soluções práticas e automatizadas. Tenho forte interesse em unir tecnologia com **gestão de qualidade industrial**, **melhoria contínua de processos (PDCA, Lean Six Sigma)** e **planejamento financeiro**. 
