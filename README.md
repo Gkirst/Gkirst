@@ -22,11 +22,6 @@ Atualmente, construo automações e projetos freelance para resolver problemas r
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🚀 Projetos em Destaque
-
-- 📈 **[Dashboard de Gestão de Qualidade](#)** - Automação para acompanhamento de indicadores industriais e ciclos PDCA.
-- 💰 **[Monitor de Fundos Imobiliários](#)** - Script que rastreia rendimentos (KNSC11, HGLG11, etc.) para estratégias de renda passiva.
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokirst)
