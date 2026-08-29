@@ -1,28 +1,37 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=Gkirst&label=Visualizações+do+Perfil&color=0e75b6&style=flat)
 
-Sou um desenvolvedor de Joinville, SC, focado em construir soluções práticas e automatizadas. Tenho forte interesse em unir tecnologia com **gestão de qualidade industrial**, **melhoria contínua de processos (PDCA, Lean Six Sigma)** e **planejamento financeiro**. 
-
-Atualmente, construo automações e projetos freelance para resolver problemas reais e otimizar o tempo das empresas.
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens e Web:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados e Automação:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Ferramentas:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### 📫 Como me encontrar
+Desenvolvedor | Python • Automação • Dados • Sistemas de Gestão
+Construo soluções digitais para transformar processos manuais em sistemas mais simples, organizados e eficientes.
+Meu foco está em Python, automação, análise de dados e desenvolvimento de aplicações orientadas a problemas reais de negócio. Também tenho interesse em melhoria contínua, gestão de processos e uso de tecnologia para apoiar decisões.
+🚀 Projetos em destaque
+🏍️ BM MOTOS
+Python • Streamlit • Excel
+Sistema de gestão desenvolvido para uma oficina de motos, centralizando estoque, compras, vendas, caixa e gerenciamento de mecânicos em uma única aplicação.
+Destaque: projeto construído a partir de uma necessidade operacional real.
+Ver projeto →
+📊 Monitor FII
+Frontend • Backend • Dados
+Aplicação estruturada em frontend e backend para monitoramento e análise de fundos imobiliários.
+Destaque: organização de dados e separação entre camadas da aplicação.
+Ver projeto →
+🛠️ Tecnologias
+Desenvolvimento
+Python • JavaScript • HTML • CSS • React
+Dados e automação
+Pandas • Excel • Automação de processos
+Ferramentas
+Git • GitHub • VS Code
+📚 Atualmente estudando e aprimorando
+Arquitetura de aplicações e APIs
+Banco de dados e modelagem
+Testes automatizados
+Integração entre sistemas
+Deploy e boas práticas de desenvolvimento
+💡 Minha abordagem
+Não busco apenas escrever código. Procuro entender o problema, simplificar o processo e construir uma solução que gere valor real.
+Essa abordagem aparece principalmente nos projetos de automação e sistemas de gestão presentes neste perfil.
+📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokirst)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavokiirst@gmail.com)
