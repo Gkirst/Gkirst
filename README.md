@@ -6,6 +6,7 @@ Construo soluções digitais para transformar processos manuais em sistemas mais
 Meu foco está em Python, automação, análise de dados e desenvolvimento de aplicações orientadas a problemas reais de negócio. Também tenho interesse em melhoria contínua, gestão de processos e uso de tecnologia para apoiar decisões.
 
 🚀 Projetos em destaque
+
 🏍️ BM MOTOS
 Python • Streamlit • Excel
 Sistema de gestão desenvolvido para uma oficina de motos, centralizando estoque, compras, vendas, caixa e gerenciamento de mecânicos em uma única aplicação.
