@@ -5,17 +5,12 @@ Desenvolvedor | Python • Automação • Dados • Sistemas de Gestão
 Construo soluções digitais para transformar processos manuais em sistemas mais simples, organizados e eficientes.
 Meu foco está em Python, automação, análise de dados e desenvolvimento de aplicações orientadas a problemas reais de negócio. Também tenho interesse em melhoria contínua, gestão de processos e uso de tecnologia para apoiar decisões.
 
-🚀 Projetos em destaque
+🚀 Projeto em destaque
 
 🏍️ BM MOTOS
 Python • Streamlit • Excel
 Sistema de gestão desenvolvido para uma oficina de motos, centralizando estoque, compras, vendas, caixa e gerenciamento de mecânicos em uma única aplicação.
 Destaque: projeto construído a partir de uma necessidade operacional real.
-
-📊 Monitor FII
-Frontend • Backend • Dados
-Aplicação estruturada em frontend e backend para monitoramento e análise de fundos imobiliários.
-Destaque: organização de dados e separação entre camadas da aplicação.
 
 🛠️ Tecnologias
 Desenvolvimento
