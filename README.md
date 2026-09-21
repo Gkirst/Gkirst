@@ -11,6 +11,7 @@ Meu foco está em Python, automação, análise de dados e desenvolvimento de ap
 Python • Streamlit • Excel
 Sistema de gestão desenvolvido para uma oficina de motos, centralizando estoque, compras, vendas, caixa e gerenciamento de mecânicos em uma única aplicação.
 Destaque: projeto construído a partir de uma necessidade operacional real.
+https://github.com/Gkirst/BMMOTOS
 
 🛠️ Tecnologias
 Desenvolvimento
