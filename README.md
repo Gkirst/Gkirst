@@ -13,6 +13,12 @@ Sistema de gestão desenvolvido para uma oficina de motos, centralizando estoque
 Destaque: projeto construído a partir de uma necessidade operacional real.
 https://github.com/Gkirst/BMMOTOS
 
+💡 AppMelhorias
+React Native • Expo • Firebase
+Aplicativo para reunir ideias de melhoria em um só lugar. A equipe pode cadastrar propostas, comentar e acompanhar o andamento; o supervisor avalia cada proposta e registra suas decisões.
+Destaque: a demonstração funciona offline, sem precisar de servidor. O projeto também inclui uma versão preparada para sincronizar as informações pelo Firebase quando for implantado em uma empresa.
+Veja o projeto e as telas do aplicativo: https://github.com/Gkirst/AppMelhorias
+
 🛠️ Tecnologias
 Desenvolvimento
 Python • JavaScript • HTML • CSS • React
