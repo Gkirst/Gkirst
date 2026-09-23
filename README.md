@@ -31,6 +31,7 @@ Ferramentas
 Git • GitHub • VS Code
 
 📚 Atualmente
+
 Estudando e aprimorando
 Arquitetura de aplicações e APIs
 Banco de dados e modelagem
