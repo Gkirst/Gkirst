@@ -35,6 +35,7 @@ Integração entre sistemas
 Deploy e boas práticas de desenvolvimento
 
 💡 Minha abordagem
+
 Não busco apenas escrever código. Procuro entender o problema, simplificar o processo e construir uma solução que gere valor real.
 Essa abordagem aparece principalmente nos projetos de automação e sistemas de gestão presentes no meu perfil.
 
